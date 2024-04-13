@@ -1,0 +1,4 @@
+baseURL = 'https://henrique-marques-vsoft.github.io/'
+languageCode = 'en-us'
+title = 'HM-2030'
+theme = 'lugo'
