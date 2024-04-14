@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>HM-2030</title>
-	<link>https://henrique-marques-vsoft.github.io/tags/rust/</link>
+	<link>https://hm2030.neocities.org/tags/rust/</link>
 	<description>Recent content in rust on HM-2030</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Sat, 13 Apr 2024 12:49:32 +0100</lastBuildDate>
     
-        <atom:link href="https://henrique-marques-vsoft.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hm2030.neocities.org/tags/rust/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>Monogatari</title>
-		<link>https://henrique-marques-vsoft.github.io/monogatari/</link>
+		<link>https://hm2030.neocities.org/monogatari/</link>
 		<pubDate>Sat, 13 Apr 2024 12:49:51 +0100</pubDate>
 		
-		<guid>https://henrique-marques-vsoft.github.io/monogatari/</guid>
+		<guid>https://hm2030.neocities.org/monogatari/</guid>
 		<description>&lt;h1 id=&#34;monogatari---text-editor&#34;&gt;MONOGATARI - Text Editor&lt;/h1&gt;
 &lt;p&gt;Monogatari is a minimalist text editor built with Python using the Tkinter GUI library.&lt;/p&gt;
 &lt;h2 id=&#34;installation-and-usage&#34;&gt;Installation and usage&lt;/h2&gt;
@@ -50,26 +50,26 @@ $ git commit -m &amp;#34;fix: something that was fixed&amp;#34;
 $ git push
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Then you can create a pull request right here on Github. Just go to the Pull Requests tab and select &lt;code&gt;New pull request&lt;/code&gt; button to do so.&lt;/p&gt;
 &lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://henrique-marques-vsoft.github.io/monogatari-print.png&#34; alt=&#34;Screenshot foi pro caralho&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hm2030.neocities.org/monogatari-print.png&#34; alt=&#34;Screenshot foi pro caralho&#34;&gt;&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>Lum</title>
-		<link>https://henrique-marques-vsoft.github.io/lum/</link>
+		<link>https://hm2030.neocities.org/lum/</link>
 		<pubDate>Sat, 13 Apr 2024 12:49:32 +0100</pubDate>
 		
-		<guid>https://henrique-marques-vsoft.github.io/lum/</guid>
+		<guid>https://hm2030.neocities.org/lum/</guid>
 		<description>&lt;p&gt;Link: &lt;a href=&#34;https://github.com/henrique-marques-vsoft/lum&#34;&gt;https://github.com/henrique-marques-vsoft/lum&lt;/a&gt;&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>About</title>
-		<link>https://henrique-marques-vsoft.github.io/about/</link>
+		<link>https://hm2030.neocities.org/about/</link>
 		<pubDate>Sat, 13 Apr 2024 10:48:37 +0100</pubDate>
 		
-		<guid>https://henrique-marques-vsoft.github.io/about/</guid>
+		<guid>https://hm2030.neocities.org/about/</guid>
 		<description>&lt;h1 id=&#34;who-am-i&#34;&gt;Who am I&lt;/h1&gt;
 &lt;p&gt;Hi! My name is Henrique. I&amp;rsquo;m currently working as a Software Engineer at Hexis Technology Hub.
 The main purpose of this website is to share some of my thoughts and projects.

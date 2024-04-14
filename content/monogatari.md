@@ -4,7 +4,9 @@ date = 2024-04-13T12:49:51+01:00
 tags = ['projects', 'programming', 'python', 'linux', 'windows']
 +++
 
-# MONOGATARI - Text Editor
+# [MONOGATARI - Text Editor](https://github.com/henrique-marques-vsoft/monogatari)
+
+![monogatari-movie scene shinobu kokorowatari](https://raw.githubusercontent.com/henrique-marques-vsoft/monogatari/master/pics/shinobu.gif)
 
 Monogatari is a minimalist text editor built with Python using the Tkinter GUI library.
 
@@ -57,4 +59,4 @@ $ git push
 Then you can create a pull request right here on Github. Just go to the Pull Requests tab and select `New pull request` button to do so.
 
 ## Screenshots
-![Screenshot foi pro caralho](/monogatari-print.png)
+![monogatari on i3wm screenshot](https://raw.githubusercontent.com/henrique-marques-vsoft/monogatari/master/pics/print.png)
