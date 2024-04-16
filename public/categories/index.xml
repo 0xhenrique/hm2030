@@ -15,7 +15,8 @@
 		<pubDate>Sat, 13 Apr 2024 12:49:51 +0100</pubDate>
 		
 		<guid>https://hm2030.neocities.org/monogatari/</guid>
-		<description>&lt;h1 id=&#34;monogatari---text-editor&#34;&gt;MONOGATARI - Text Editor&lt;/h1&gt;
+		<description>&lt;h1 id=&#34;monogatari---text-editorhttpsgithubcomhenrique-marques-vsoftmonogatari&#34;&gt;&lt;a href=&#34;https://github.com/henrique-marques-vsoft/monogatari&#34;&gt;MONOGATARI - Text Editor&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/henrique-marques-vsoft/monogatari/master/pics/shinobu.gif&#34; alt=&#34;monogatari-movie scene shinobu kokorowatari&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Monogatari is a minimalist text editor built with Python using the Tkinter GUI library.&lt;/p&gt;
 &lt;h2 id=&#34;installation-and-usage&#34;&gt;Installation and usage&lt;/h2&gt;
 &lt;p&gt;Assuming you already have Python installed in your machine:&lt;/p&gt;
@@ -49,7 +50,7 @@ $ git commit -m &amp;#34;fix: something that was fixed&amp;#34;
 $ git push
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Then you can create a pull request right here on Github. Just go to the Pull Requests tab and select &lt;code&gt;New pull request&lt;/code&gt; button to do so.&lt;/p&gt;
 &lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://hm2030.neocities.org/monogatari-print.png&#34; alt=&#34;Screenshot foi pro caralho&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/henrique-marques-vsoft/monogatari/master/pics/print.png&#34; alt=&#34;monogatari on i3wm screenshot&#34;&gt;&lt;/p&gt;
 </description>
 	</item>
 	
@@ -73,6 +74,21 @@ $ git push
 &lt;p&gt;Hi! My name is Henrique. I&amp;rsquo;m currently working as a Software Engineer at Hexis Technology Hub.
 The main purpose of this website is to share some of my thoughts and projects.
 Feel free to reach out on &lt;a href=&#34;https://github.com/henrique-marques-vsoft&#34;&gt;Github&lt;/a&gt; or &lt;a href=&#34;https://www.linkedin.com/in/all123all/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Nazare Beach</title>
+		<link>https://hm2030.neocities.org/nazare-beach/</link>
+		<pubDate>Sun, 19 Mar 2023 02:14:03 +0100</pubDate>
+		
+		<guid>https://hm2030.neocities.org/nazare-beach/</guid>
+		<description>&lt;p&gt;I visited Nazaré Beach last year (2023). Really beautiful place. Shame on me for not taking my camera with me that day. I&amp;rsquo;m not a fan of smartphone cameras to be honest.
+Here are some photos I took that day.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ATjnpyl.jpeg&#34; alt=&#34;1st photo&#34;&gt;
+&lt;img src=&#34;https://i.imgur.com/GwZIh3p.jpeg&#34; alt=&#34;2nd photo&#34;&gt;
+&lt;img src=&#34;https://i.imgur.com/hxY0rcS.jpeg&#34; alt=&#34;3rd photo&#34;&gt;
+&lt;img src=&#34;https://i.imgur.com/8uRNHtF.jpeg&#34; alt=&#34;4th photo&#34;&gt;&lt;/p&gt;
 </description>
 	</item>
 	

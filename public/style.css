@@ -88,9 +88,9 @@ a {
 
 .read-truncated {
 	text-decoration: none;
-	background: #fbf1c7;
-	padding: 10px;
-	color: #1d2021;
+	/* background: #fbf1c7; */
+	/* padding: 10px; */
+	color: #fe8019;
 }
 
 /* For TAGLIST.HTML */
